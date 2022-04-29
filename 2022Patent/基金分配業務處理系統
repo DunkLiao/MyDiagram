@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T00:35:16.972Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="51bU9Kybk9tyyQR5sob_" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T00:36:55.751Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TWhlPBMajw4QsH0VWC-Z" version="17.4.6" type="github">
   <diagram name="基金分配業務處理系統_人工作業" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="782" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="350" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3_V-zVtF0AIPz_DXNk5u-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="40" y="65" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="基金帳務系統" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
