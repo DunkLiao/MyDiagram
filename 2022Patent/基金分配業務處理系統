@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T01:48:30.519Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-dDc7n2N6FgowSiTBMiI" version="17.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-30T02:24:06.833Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zssF71bA-XwihLDm8Cn4" version="17.5.0" type="github" pages="3">
   <diagram name="基金分配業務人工作業" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="782" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -171,10 +171,10 @@
         <mxCell id="co9HJjgd3U0N3MVs_v1D-0" />
         <mxCell id="co9HJjgd3U0N3MVs_v1D-1" parent="co9HJjgd3U0N3MVs_v1D-0" />
         <mxCell id="co9HJjgd3U0N3MVs_v1D-2" value="基金分配業務處理系統" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="co9HJjgd3U0N3MVs_v1D-1" vertex="1">
-          <mxGeometry x="70" y="40" width="940" height="1190" as="geometry" />
+          <mxGeometry x="70" y="40" width="940" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-3" value="基金公司收單系統" style="swimlane;html=1;startSize=20;" parent="co9HJjgd3U0N3MVs_v1D-2" vertex="1">
-          <mxGeometry y="20" width="200" height="1170" as="geometry" />
+          <mxGeometry y="20" width="200" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-4" value="&lt;span style=&quot;font-size: 8px&quot;&gt;產生交易確認單&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="co9HJjgd3U0N3MVs_v1D-3" vertex="1">
           <mxGeometry x="30" y="120" width="100" height="60" as="geometry" />
@@ -195,13 +195,13 @@
           <mxGeometry x="130" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-10" value="基金除權息資訊網頁" style="swimlane;html=1;startSize=20;" parent="co9HJjgd3U0N3MVs_v1D-2" vertex="1">
-          <mxGeometry x="200" y="20" width="160" height="1170" as="geometry" />
+          <mxGeometry x="200" y="20" width="160" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="lBBCB3HUaOwP2B3UNgft-1" value="除權除息資料" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="co9HJjgd3U0N3MVs_v1D-10">
           <mxGeometry x="30" y="390" width="100" height="68.19" as="geometry" />
         </mxCell>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-26" value="email/傳真伺服器" style="swimlane;html=1;startSize=20;" parent="co9HJjgd3U0N3MVs_v1D-2" vertex="1">
-          <mxGeometry x="360" y="20" width="170" height="1170" as="geometry" />
+          <mxGeometry x="360" y="20" width="170" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="rLq5aA86_x4xGFQXVNEi-6" value="郵件/傳真導向到業務處理系統" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="co9HJjgd3U0N3MVs_v1D-26">
           <mxGeometry x="30" y="210" width="100" height="60" as="geometry" />
@@ -221,7 +221,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CgoKNXJMdQgE3UWrWH5I-0" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 8px&quot;&gt;基金分配業務處理系統&lt;/span&gt;" style="swimlane;html=1;startSize=20;" parent="co9HJjgd3U0N3MVs_v1D-1" vertex="1">
-          <mxGeometry x="600" y="60" width="270" height="1170" as="geometry" />
+          <mxGeometry x="600" y="60" width="270" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="80pvPPUnsWdE_ezdnnYO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CgoKNXJMdQgE3UWrWH5I-0" source="co9HJjgd3U0N3MVs_v1D-12" target="80pvPPUnsWdE_ezdnnYO-1">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +286,7 @@
           <mxGeometry x="70" y="920" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-21" value="結束分配作業" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="CgoKNXJMdQgE3UWrWH5I-0" vertex="1">
-          <mxGeometry x="160" y="1080" width="100" height="60" as="geometry" />
+          <mxGeometry x="90" y="1150" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KtuXmGVDHovP7OzgoNkb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CgoKNXJMdQgE3UWrWH5I-0" source="Vqtl8NkL66lYNb7fSytO-3" target="KtuXmGVDHovP7OzgoNkb-9">
           <mxGeometry relative="1" as="geometry" />
@@ -315,9 +315,6 @@
         <mxCell id="KtuXmGVDHovP7OzgoNkb-7" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CgoKNXJMdQgE3UWrWH5I-0">
           <mxGeometry x="120" y="790" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KtuXmGVDHovP7OzgoNkb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CgoKNXJMdQgE3UWrWH5I-0" source="KtuXmGVDHovP7OzgoNkb-9" target="co9HJjgd3U0N3MVs_v1D-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KtuXmGVDHovP7OzgoNkb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CgoKNXJMdQgE3UWrWH5I-0" source="KtuXmGVDHovP7OzgoNkb-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="610" as="targetPoint" />
@@ -327,14 +324,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q6WCH5N1fRccAzqNGdJB-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="CgoKNXJMdQgE3UWrWH5I-0" source="KtuXmGVDHovP7OzgoNkb-9" target="80pvPPUnsWdE_ezdnnYO-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1110" />
+              <mxPoint x="280" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KtuXmGVDHovP7OzgoNkb-9" value="交易確認單&lt;br&gt;是否無須提供" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="CgoKNXJMdQgE3UWrWH5I-0">
           <mxGeometry x="10" y="1070" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KtuXmGVDHovP7OzgoNkb-14" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CgoKNXJMdQgE3UWrWH5I-0">
-          <mxGeometry x="100" y="1080" width="60" height="30" as="geometry" />
+        <mxCell id="Q6WCH5N1fRccAzqNGdJB-1" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CgoKNXJMdQgE3UWrWH5I-0">
+          <mxGeometry x="110" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lBBCB3HUaOwP2B3UNgft-0" value="基金帳務系統" style="swimlane;html=1;startSize=20;" vertex="1" parent="co9HJjgd3U0N3MVs_v1D-1">
-          <mxGeometry x="870" y="60" width="140" height="1170" as="geometry" />
+          <mxGeometry x="870" y="60" width="140" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="lBBCB3HUaOwP2B3UNgft-2" value="分配結果表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="lBBCB3HUaOwP2B3UNgft-0">
           <mxGeometry x="15" y="820" width="88" height="60" as="geometry" />
