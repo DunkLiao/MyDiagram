@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T01:31:50.461Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mgPAxlkfBi_PtttjnmCp" version="17.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-30T01:48:30.519Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-dDc7n2N6FgowSiTBMiI" version="17.5.0" type="github" pages="3">
   <diagram name="基金分配業務人工作業" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="782" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="基金分配業務處理系統" id="Fxz9jKYFoHrAUnLsxdkG">
-    <mxGraphModel dx="920" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="co9HJjgd3U0N3MVs_v1D-0" />
         <mxCell id="co9HJjgd3U0N3MVs_v1D-1" parent="co9HJjgd3U0N3MVs_v1D-0" />
@@ -382,6 +382,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TMZFC8ivEfpFX1fzmmQy" name="元件圖">
+    <mxGraphModel dx="782" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
